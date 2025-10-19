@@ -18,9 +18,9 @@ HTML5
 
 📁 Estrutura de Pastas
 /ExperienciaPratica1
-│
-├── index.html
-├── cadastro.html
-├── projetos.html
+├── /HTML
+│   └── index.html
+│   └── cadastro.html
+│   └── projetos.html
 ├── /imagens
 │   └── imagens do site
