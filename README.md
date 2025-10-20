@@ -1,20 +1,20 @@
 🐾 Ong Esperança\
-🌟 Sobre o Projeto\
+🌟 Sobre o Projeto  
 
 Este site foi desenvolvido para a atividade Prática 1 - Desenvolvimento front-end para Web, do Curso de Ciência da Computação, aplicando os fundamentos de HTML5 estudados.
 Foi apresentado um site de uma ONG fictícia, a ONG Esperança, uma organização sem fins lucrativos dedicada ao resgate, acolhimento e adoção responsável de cães e gatos em situação de rua. 
 
-📌 Funcionalidades\
+📌 Funcionalidades  
 
 Página Inicial\
 Página Projetos Sociais (Voluntariado e Doações)\
 Página Cadastro de voluntários\
 Layout responsivo\
-Navegação intuitiva\
+Navegação intuitiva  
 
-🚀 Tecnologias Utilizadas\
+🚀 Tecnologias Utilizadas  
 
-HTML5\
+HTML5  
 
 📁 Estrutura de Pastas
 /ExperienciaPratica1\
@@ -23,5 +23,9 @@ HTML5\
 │   └── cadastro.html\
 │   └── projetos.html\
 ├── /imagens\
-│   └── imagens do site\
+│   └── imagens do site  
+
+📄 Licença
+
+Este projeto foi desenvolvido apenas para fins acadêmicos e não possui fins comerciais.
 
